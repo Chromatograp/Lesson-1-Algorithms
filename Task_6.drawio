@@ -1,1 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T15:27:32.359Z" agent="5.0 (X11)" version="16.0.0" etag="5LlHxokf6FeA6FjRfOAX" type="github"><diagram id="jDjCkrvd8pg0LujyqgoL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-18T15:49:25.166Z" agent="5.0 (X11)" etag="QYAR5k-rJpq2ZcSQf7mP" version="16.0.0" type="github">
+  <diagram id="jDjCkrvd8pg0LujyqgoL" name="Page-1">
+    <mxGraphModel dx="782" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SS7sDXPhh90FTraIYqzg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS7sDXPhh90FTraIYqzg-1" target="SS7sDXPhh90FTraIYqzg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-1" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS7sDXPhh90FTraIYqzg-2" target="SS7sDXPhh90FTraIYqzg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-2" value="Ввод длины первой стороны треугольника =а" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="130" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS7sDXPhh90FTraIYqzg-3" target="SS7sDXPhh90FTraIYqzg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-3" value="Ввод длины второй стороны треугольника = b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS7sDXPhh90FTraIYqzg-4" target="SS7sDXPhh90FTraIYqzg-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-4" value="Ввод длины третьей стороны треугольника = c" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS7sDXPhh90FTraIYqzg-5" target="SS7sDXPhh90FTraIYqzg-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS7sDXPhh90FTraIYqzg-5" target="SS7sDXPhh90FTraIYqzg-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-5" value="Проверка возможности такого треугольника: если сумма 2-х сторон больше длины третьей" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-10" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-11" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-13" value="Вывод: &quot;Такой треугольник невозможен&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SS7sDXPhh90FTraIYqzg-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS7sDXPhh90FTraIYqzg-15" target="SS7sDXPhh90FTraIYqzg-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-15" value="Проверка равностороннего треугольника: если все стороны треугольника равны" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="550" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-17" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-18" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-19" value="Вывод: &quot;Треугольник равносторонний&quot; " style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="677" y="710" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS7sDXPhh90FTraIYqzg-21" target="SS7sDXPhh90FTraIYqzg-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS7sDXPhh90FTraIYqzg-21" target="SS7sDXPhh90FTraIYqzg-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-21" value="Проверка на равнобедренность: если только две стороны треугольника равны" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="650" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-23" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-24" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-25" value="Вывод: &quot;Это равнобедренный треугольник&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="800" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SS7sDXPhh90FTraIYqzg-26" value="Вывод: &quot;Это разносторонний треугольник&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="800" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
