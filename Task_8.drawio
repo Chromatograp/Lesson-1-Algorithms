@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T16:09:17.085Z" agent="5.0 (X11)" version="16.0.0" etag="SYOag5JVvp6r3WbBtVYl" type="github"><diagram id="a2uIZlO9HBPuykUBI2Yr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-18T16:16:09.004Z" agent="5.0 (X11)" etag="vPeMD1cmYpPou_9G-ORE" version="16.0.0" type="github">
+  <diagram id="a2uIZlO9HBPuykUBI2Yr" name="Page-1">
+    <mxGraphModel dx="782" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CgYLpjeaURo-K1QctiqE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CgYLpjeaURo-K1QctiqE-1" target="CgYLpjeaURo-K1QctiqE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYLpjeaURo-K1QctiqE-1" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYLpjeaURo-K1QctiqE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CgYLpjeaURo-K1QctiqE-2" target="CgYLpjeaURo-K1QctiqE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYLpjeaURo-K1QctiqE-2" value="Ввод: первое число (а)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYLpjeaURo-K1QctiqE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CgYLpjeaURo-K1QctiqE-3" target="CgYLpjeaURo-K1QctiqE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYLpjeaURo-K1QctiqE-3" value="Ввод: второе число (b)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="350" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYLpjeaURo-K1QctiqE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CgYLpjeaURo-K1QctiqE-4" target="CgYLpjeaURo-K1QctiqE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYLpjeaURo-K1QctiqE-4" value="Ввод: третье число (с)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYLpjeaURo-K1QctiqE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CgYLpjeaURo-K1QctiqE-5" target="CgYLpjeaURo-K1QctiqE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYLpjeaURo-K1QctiqE-5" value="Проверка: если одно из чисел больше второго и меньше третьего" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="540" width="360" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYLpjeaURo-K1QctiqE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CgYLpjeaURo-K1QctiqE-6" target="CgYLpjeaURo-K1QctiqE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYLpjeaURo-K1QctiqE-6" value="Вывод: среднее из чисел" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="750" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CgYLpjeaURo-K1QctiqE-7" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="860" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
